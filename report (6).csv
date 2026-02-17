@@ -1,0 +1,249 @@
+﻿Imports
+Period,Commodity,Province,Country,State,Value ($),Quantity,Unit of measure
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Oregon,50,1,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Malaysia",N/A,557991,3413,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Taiwan",N/A,2648817,12220,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",California,241523,1256,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Missouri,2591,13,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",California,232527,940,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Ohio,281,10,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Thailand",N/A,243866,2042,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Australia",N/A,2625,5,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Korea, South",N/A,30807577,192227,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",North Carolina,4518,3,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",New Jersey,12151,56,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Oregon,101,1,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Philippines",N/A,27231,1039,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Australia",N/A,33790,147,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Maryland,1997,4,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Cook Islands",N/A,90,1,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Colorado,78259,61,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Brazil",N/A,5720,39,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",New Jersey,6160,50,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Japan",N/A,79733,250,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Norway",N/A,1019,7,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Florida,85010,23,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Austria",N/A,1010,5,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Romania",N/A,141,2,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Unknown states,104111,386,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Colorado,115,2,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Maryland,99,1,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United Kingdom",N/A,142979,1011,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Unknown states,115860,459,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Japan",N/A,728471,7524,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Ohio,2721,15,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",New York,35726,594,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"France",N/A,9238,33,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Maryland,4214,4,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United Kingdom",N/A,119505,827,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Virginia,31625,123,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Connecticut,32602,126,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Georgia,20740,88,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Romania",N/A,3436,21,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Massachusetts,9404,54,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Hong Kong",N/A,91979,701,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Washington,14391,52,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United Kingdom",N/A,75946,585,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Hungary",N/A,749231,4648,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Denmark",N/A,23597,18,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Bahrain",N/A,216,5,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States Minor Outlying Islands",N/A,89,1,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Brazil",N/A,2103,28,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"India",N/A,325710,9102,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Canada",N/A,424528,3068,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Alaska,2380,2,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Taiwan",N/A,5962996,15675,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Hong Kong",N/A,78603,1296,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Sweden",N/A,9021,37,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Namibia",N/A,2184,8,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"France",N/A,7750,86,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Costa Rica",N/A,2804,14,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",South Carolina,3867,5,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Minnesota,136,1,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Estonia",N/A,623,1,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Pennsylvania,4017,101,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Saudi Arabia",N/A,443,1,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Nebraska,2030,4,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Viet Nam",N/A,22,1,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Hong Kong",N/A,7549,78,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",District of Columbia,4118,40,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Florida,38291,418,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Pennsylvania,6556,25,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Unknown states,108721,443,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Illinois,27174,227,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Missouri,11516,104,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Denmark",N/A,85098,306,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Norway",N/A,673,2,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Ohio,98,1,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Michigan,1061,42,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"India",N/A,604859,17031,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Utah,6834,14,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Connecticut,52841,227,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Taiwan",N/A,7694582,19778,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Mexico",N/A,105536730,329585,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Pennsylvania,7319,119,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Mississippi,874,1,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Michigan,6797,56,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Utah,60000,315,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Kansas,143,1,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Connecticut,19895,49,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Wisconsin,458,1,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Germany",N/A,6314,35,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Thailand",N/A,298695,2067,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Singapore",N/A,3870,37,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Nevada,39,1,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Korea, South",N/A,24149483,201908,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Colorado,99,1,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Arizona,27551,34,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Hungary",N/A,1389849,7717,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Minnesota,599,10,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Sweden",N/A,3345,15,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Malaysia",N/A,2142321,11995,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Finland",N/A,465896,2409,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Virginia,55806,128,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Iowa,42254,23,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Saint Lucia",N/A,98,1,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Texas,95694,913,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Sweden",N/A,15828,37,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Pennsylvania,2147,22,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Japan",N/A,13734,100,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Kansas,28558,189,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Cocos (Keeling) Islands",N/A,100,1,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Estonia",N/A,18277,40,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Illinois,32443,361,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Chile",N/A,975,5,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Switzerland",N/A,1655,4,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Florida,27792,164,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Canada",N/A,2417933,13576,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Bahrain",N/A,45,1,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",California,310248,1560,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United Kingdom",N/A,25547,179,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"China",N/A,138347606,620713,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Malaysia",N/A,1750115,8185,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Washington,4924,6,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Tennessee,23267,85,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Hong Kong",N/A,1922890,12366,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Finland",N/A,205532,1116,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Denmark",N/A,500191,3642,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Oklahoma,8057,42,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Chile",N/A,600,10,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",New Jersey,12724,79,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Georgia,3080,40,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Italy",N/A,809,2,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Mexico",N/A,128289052,515497,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Singapore",N/A,1843,21,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Israel",N/A,4498,12,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",New York,58450,717,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Austria",N/A,801,3,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Mississippi,3879,8,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Peru",N/A,1186,1,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Japan",N/A,10253,40,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Belarus",N/A,682,1,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Massachusetts,12948,92,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Mexico",N/A,40368761,231800,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Missouri,7900,52,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Rhode Island,59,1,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",New York,49444,707,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Korea, South",N/A,34603520,205536,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Israel",N/A,8584,7,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Austria",N/A,2049,8,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Peru",N/A,49,1,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",South Carolina,486,2,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Thailand",N/A,300494,2955,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Missouri,14136,56,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Estonia",N/A,63963,142,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Switzerland",N/A,69,1,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Korea, South",N/A,29435264,187051,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Poland",N/A,31,1,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Virginia,9261,7,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Slovakia",N/A,2048,5,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Oklahoma,4341,40,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Germany",N/A,7557,34,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Saudi Arabia",N/A,3282,29,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Illinois,25823,201,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",North Carolina,1000,11,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Mexico",N/A,80486453,399300,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Romania",N/A,185,2,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Poland",N/A,65,2,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Massachusetts,1534,1,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Philippines",N/A,3980,7,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Texas,113659,2672,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Bahrain",N/A,141,3,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Texas,272834,5887,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Kentucky,48,1,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Brazil",N/A,5278,26,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Canada",N/A,1194128,6843,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Washington,646,2,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",New Jersey,27543,111,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Tennessee,19767,51,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Italy",N/A,156,1,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Saudi Arabia",N/A,502,2,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Singapore",N/A,1072,11,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Morocco",N/A,10666,20,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Philippines",N/A,76890,751,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Denmark",N/A,541,8,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Maryland,21519,191,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",New York,71072,1060,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Arizona,9471,10,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Tennessee,42136,107,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Hungary",N/A,98794,520,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"China",N/A,128990917,619426,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Virginia,86501,41,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Canada",N/A,3071246,18430,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Hungary",N/A,2135486,14041,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Michigan,8310,39,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Florida,103368,168,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"India",N/A,336516,9534,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Israel",N/A,12811,31,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Finland",N/A,83090,428,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Saudi Arabia",N/A,931,2,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Iowa,4675,6,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Germany",N/A,12878,63,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Tennessee,38554,411,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Taiwan",N/A,15561121,35771,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Thailand",N/A,187668,1205,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Poland",N/A,337,1,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Mississippi,577,1,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"South Africa, Republic of",N/A,5878,53,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Morocco",N/A,5173,20,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Singapore",N/A,21909,35,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"China",N/A,163935543,746528,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",California,206313,1076,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Romania",N/A,186,2,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",South Carolina,49,1,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Unknown states,129728,488,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Israel",N/A,12722,79,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Louisiana,1719,4,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Sweden",N/A,6277,19,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Finland",N/A,50921,340,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Illinois,23146,309,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Texas,106363,2113,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Austria",N/A,2600,9,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Washington,5589,12,Number
+2011-01-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Connecticut,79324,301,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Colorado,42958,516,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"China",N/A,109249413,522913,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Alabama,2975,3,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Chile",N/A,681,12,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Philippines",N/A,31762,1018,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Malaysia",N/A,442346,2959,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Oregon,1373,3,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"India",N/A,99373,3002,Number
+2011-02-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Michigan,79,1,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Georgia,22332,66,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Arizona,4821,3,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"France",N/A,141184,1211,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Germany",N/A,16430,47,Number
+2011-03-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Minnesota,194,2,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Massachusetts,459,4,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"France",N/A,106859,1070,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Australia",N/A,5250,10,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"Chile",N/A,1505,16,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Iowa,14484,5,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Nevada,26653,8,Number
+2011-04-01,"8517.12 - Telephones for cellular networks or for other wireless networks (Terminated 2021-12)",Canada,"United States",Georgia,12543,67,Number
+
+
+How to cite: Statistics Canada. Canadian International Merchandise Trade Web Application
+https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2021004-eng.htm
+Accessed date: 2026-01-20
