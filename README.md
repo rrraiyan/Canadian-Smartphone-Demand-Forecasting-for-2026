@@ -2,7 +2,7 @@
 
 A machine learning forecasting system that predicts 2026 smartphone demand in Canada across Apple, Samsung, Google, and Motorola. Built with an 8-model evaluation pipeline and deployed as an interactive web dashboard.
 
-**[🚀 Live Dashboard]([https://your-streamlit-url.streamlit.app](https://canadian-smartphone-demand-forecasting-for-2026-gbq7kezxhapaad.streamlit.app/))**
+**[🚀 Live Dashboard](https://canadian-smartphone-demand-forecasting-for-2026-gbq7kezxhapaad.streamlit.app/)**
 
 ---
 
